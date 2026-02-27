@@ -38,7 +38,7 @@ stations <- read.csv("SEBS_mapping/data/Appendix2_DY22-08_BASISStationCoordinate
 
 
 ```{r}
-ggplot() +
+stn <- ggplot() +
   #alaska polygon
   geom_polygon(data=NBS,aes(x=long,y=lat,group=group),fill="tan") +
   #bathymetry
@@ -54,7 +54,7 @@ ggplot() +
             color = "black", size = 2 )+
   annotate( geom = "text", x = -168.1, y = 56, label = "200m", 
             color = "black", size = 2 ) +
-  scale_shape_manual(name = "Station type",values=c(13, 17, 24)) +
+  scale_shape_manual(name = "Station type",values=c(24, 17, 13)) +
   #projection and limits using coord_sf
   coord_sf(crs="EPSG:3476",default_crs=sf::st_crs(4326),xlim=c(-180,-158),ylim=c(54,64)) +
   ##alternatively you can use coord_map.  These both work for projections.  The below line is what i use for the CPUE maps and it generally works better.
@@ -69,10 +69,11 @@ ggplot() +
   #lat/long graticule color and transparency
   theme(panel.background=element_rect(fill="transparent"),
         panel.grid=element_line(color="gray",size=0.5,linetype=1),
-        axis.ticks=element_blank()) 
+        axis.ticks=element_blank(),
+        text = element_text(size = 20)) 
 
 
-#ggsave(plot=stn_map,filename="Alex Survey Map.jpg",width=24,height=12,units=c("in"),dpi=300)
+ggsave(stn, filename="images/BASIS_stn_map.png",width=12,height=12,units=c("in"),dpi=300)
 
 ```
 
