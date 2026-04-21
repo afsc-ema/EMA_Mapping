@@ -1,45 +1,46 @@
-Type,DesignType, Labels,Latdd,Londd,Lat_Deg,Lat_Min,Lon_Deg,Lon_Min,Operation
+Type,DesignType,Labels,Latdd,Londd,Lat_Deg,Lat_Min,Lon_Deg,Lon_Min,Operation
 BASIS,CoreTrawl,Core Trawl,55.5,-164,55,30,-164,0,CTD/BON/TRAWL
-BASIS,CoreTrawl,Core Trawl,56,-165,56,0,-165,0,CTD/BON/TRAWL
 BASIS,CoreTrawl,Core Trawl,56,-163,56,0,-163,0,CTD/BON/TRAWL
+BASIS,CoreTrawl,Core Trawl,56,-165,56,0,-165,0,CTD/BON/TRAWL
 BASIS,CoreTrawl,Core Trawl,56.5,-166,56,30,-166,0,CTD/BON/TRAWL
 BASIS,CoreTrawl,Core Trawl,56.5,-164,56,30,-164,0,CTD/BON/TRAWL
 BASIS,CoreTrawl,Core Trawl,56.5,-162,56,30,-162,0,CTD/BON/TRAWL
-BASIS,CoreTrawl,Core Trawl,57,-169,57,0,-169,0,CTD/BON/TRAWL
-BASIS,CoreTrawl,Core Trawl,57,-167,57,0,-167,0,CTD/BON/TRAWL
-BASIS,CoreTrawl,Core Trawl,57,-165,57,0,-165,0,CTD/BON/TRAWL
+BASIS,CoreTrawl,Core Trawl,57,-161,57,0,-161,0,CTD/BON/TRAWL
 BASIS,CoreTrawl,Core Trawl,57,-163,57,0,-163,0,CTD/BON/TRAWL
+BASIS,CoreTrawl,Core Trawl,57,-165,57,0,-165,0,CTD/BON/TRAWL
+BASIS,CoreTrawl,Core Trawl,57,-167,57,0,-167,0,CTD/BON/TRAWL
+BASIS,CoreTrawl,Core Trawl,57,-169,57,0,-169,0,CTD/BON/TRAWL
 BASIS,CoreTrawl,Core Trawl,57.5,-170,57,30,-170,0,CTD/BON/TRAWL
 BASIS,CoreTrawl,Core Trawl,57.5,-168,57,30,-168,0,CTD/BON/TRAWL
 BASIS,CoreTrawl,Core Trawl,57.5,-166,57,30,-166,0,CTD/BON/TRAWL
 BASIS,CoreTrawl,Core Trawl,57.5,-164,57,30,-164,0,CTD/BON/TRAWL
-BASIS,CoreTrawl,Core Trawl,58,-171,58,0,-171,0,CTD/BON/TRAWL
-BASIS,CoreTrawl,Core Trawl,58,-169,58,0,-169,0,CTD/BON/TRAWL
-BASIS,CoreTrawl,Core Trawl,58,-167,58,0,-167,0,CTD/BON/TRAWL
 BASIS,CoreTrawl,Core Trawl,58,-165,58,0,-165,0,CTD/BON/TRAWL
+BASIS,CoreTrawl,Core Trawl,58,-167,58,0,-167,0,CTD/BON/TRAWL
+BASIS,CoreTrawl,Core Trawl,58,-169,58,0,-169,0,CTD/BON/TRAWL
+BASIS,CoreTrawl,Core Trawl,58,-171,58,0,-171,0,CTD/BON/TRAWL
 BASIS,CoreTrawl,Core Trawl,58.5,-172,58,30,-172,0,CTD/BON/TRAWL
 BASIS,CoreTrawl,Core Trawl,58.5,-170,58,30,-170,0,CTD/BON/TRAWL
 BASIS,CoreTrawl,Core Trawl,58.5,-168,58,30,-168,0,CTD/BON/TRAWL
-BASIS,CoreTrawl,Core Trawl,59,-171,59,0,-171,0,CTD/BON/TRAWL
 BASIS,CoreTrawl,Core Trawl,59,-169,59,0,-169,0,CTD/BON/TRAWL
+BASIS,CoreTrawl,Core Trawl,59,-171,59,0,-171,0,CTD/BON/TRAWL
 BASIS,CoreTrawl,Core Trawl,59.5,-172,59,30,-172,0,CTD/BON/TRAWL
 BASIS,CoreTrawl,Core Trawl,59.5,-170,59,30,-170,0,CTD/BON/TRAWL
+BASIS,OptTrawl,Optional Trawl,60,-171,60,0,-171,0,CTD/BON/TRAWL
 BASIS,CoreTrawl,Core Trawl,60,-173,60,0,-173,0,CTD/BON/TRAWL
-BASIS,CoreTrawl,Core Trawl,60,-171,60,0,-171,0,CTD/BON/TRAWL
+BASIS,Ocean,Oceanography,60,-174,60,0,-174,0,CTD/BON
+BASIS,Ocean,Oceanography,60,-172,60,0,-172,0,CTD/BON
+BASIS,Ocean,Oceanography,60,-170,60,0,-170,0,CTD/BON
+BASIS,OptTrawl,Optional Trawl,60,-175,60,0,-175,0,CTD/BON/TRAWL
 BASIS,CoreTrawl,Core Trawl,60.5,-174,60,30,-174,0,CTD/BON/TRAWL
 BASIS,CoreTrawl,Core Trawl,60.5,-172,60,30,-172,0,CTD/BON/TRAWL
-BASIS,CoreTrawl,Core Trawl,60.5,-170,60,30,-170,0,CTD/BON/TRAWL
+BASIS,OptTrawl,Optional Trawl,60.5,-170,60,30,-170,0,CTD/BON/TRAWL
+BASIS,Ocean,Oceanography,60.5,-171,60,30,-171,0,CTD/BON
+BASIS,OptTrawl,Optional Trawl,61,-171,61,0,-171,0,CTD/BON/TRAWL
+BASIS,OptTrawl,Optional Trawl,61,-173,61,0,-173,0,CTD/BON/TRAWL
 BASIS,CoreTrawl,Core Trawl,61,-175,61,0,-175,0,CTD/BON/TRAWL
-BASIS,CoreTrawl,Core Trawl,61,-173,61,0,-173,0,CTD/BON/TRAWL
-BASIS,CoreTrawl,Core Trawl,61,-171,61,0,-171,0,CTD/BON/TRAWL
+BASIS,Ocean,Oceanography,61,-174,61,0,-174,0,CTD/BON
+BASIS,Ocean,Oceanography,61,-172,61,0,-172,0,CTD/BON
 BASIS,CoreTrawl,Core Trawl,61.5,-176,61,30,-176,0,CTD/BON/TRAWL
-BASIS,CoreTrawl,Core Trawl,61.5,-174,61,30,-174,0,CTD/BON/TRAWL
-BASIS,CoreTrawl,Core Trawl,61.5,-172,61,30,-172,0,CTD/BON/TRAWL
-BASIS,CoreTrawl,Core Trawl,62,-175,62,0,-175,0,CTD/BON/TRAWL
-BASIS,CoreTrawl,Core Trawl,62,-173,62,0,-173,0,CTD/BON/TRAWL
-BASIS,CoreTrawl,Core Trawl,62,-171,62,0,-171,0,CTD/BON/TRAWL
-BASIS,CoreTrawl,Core Trawl,62.5,-174,62,30,-174,0,CTD/BON/TRAWL
-BASIS,CoreTrawl,Core Trawl,63,-173,63,0,-173,0,CTD/BON/TRAWL
 BASIS,Ocean,Oceanography,55.5,-165,55,30,-165,0,CTD/BON
 BASIS,Ocean,Oceanography,56,-166,56,0,-166,0,CTD/BON
 BASIS,Ocean,Oceanography,56,-164,56,0,-164,0,CTD/BON
@@ -72,23 +73,22 @@ BASIS,Ocean,Oceanography,59,-168,59,0,-168,0,CTD/BON
 BASIS,Ocean,Oceanography,59.5,-173,59,30,-173,0,CTD/BON
 BASIS,Ocean,Oceanography,59.5,-171,59,30,-171,0,CTD/BON
 BASIS,Ocean,Oceanography,59.5,-169,59,30,-169,0,CTD/BON
-BASIS,Ocean,Oceanography,60,-174,60,0,-174,0,CTD/BON
-BASIS,Ocean,Oceanography,60,-172,60,0,-172,0,CTD/BON
-BASIS,Ocean,Oceanography,60,-170,60,0,-170,0,CTD/BON
-BASIS,Ocean,Oceanography,60.5,-171,60,30,-171,0,CTD/BON
-BASIS,Ocean,Oceanography,61,-174,61,0,-174,0,CTD/BON
-BASIS,Ocean,Oceanography,61,-172,61,0,-172,0,CTD/BON
+BASIS,CoreTrawl,Core Trawl,61.5,-174,61,30,-174,0,CTD/BON/TRAWL
+BASIS,OptTrawl,Optional Trawl,61.5,-172,61,30,-172,0,CTD/BON/TRAWL
 BASIS,Ocean,Oceanography,61.5,-175,61,30,-175,0,CTD/BON
 BASIS,Ocean,Oceanography,61.5,-173,61,30,-173,0,CTD/BON
 BASIS,Ocean,Oceanography,61.5,-171,61,30,-171,0,CTD/BON
+BASIS,OptTrawl,Optional Trawl,62,-171,62,0,-171,0,CTD/BON/TRAWL
+BASIS,OptTrawl,Optional Trawl,62,-173,62,0,-173,0,CTD/BON/TRAWL
+BASIS,CoreTrawl,Core Trawl,62,-175,62,0,-175,0,CTD/BON/TRAWL
 BASIS,Ocean,Oceanography,62,-174,62,0,-174,0,CTD/BON
 BASIS,Ocean,Oceanography,62,-172,62,0,-172,0,CTD/BON
+BASIS,OptTrawl,Optional Trawl,62.5,-174,62,30,-174,0,CTD/BON/TRAWL
 BASIS,Ocean,Oceanography,62.5,-173,62,30,-173,0,CTD/BON
 BASIS,OptTrawl,Optional Trawl,55.5,-166,55,30,-166,0,CTD/BON/TRAWL
 BASIS,OptTrawl,Optional Trawl,56,-167,56,0,-167,0,CTD/BON/TRAWL
 BASIS,OptTrawl,Optional Trawl,56.5,-168,56,30,-168,0,CTD/BON/TRAWL
 BASIS,OptTrawl,Optional Trawl,57,-171,57,0,-171,0,CTD/BON/TRAWL
-BASIS,CoreTrawl,Core Trawl,57,-161,57,0,-161,0,CTD/BON/TRAWL
 BASIS,OptTrawl,Optional Trawl,57.5,-172,57,30,-172,0,CTD/BON/TRAWL
 BASIS,OptTrawl,Optional Trawl,57.5,-162,57,30,-162,0,CTD/BON/TRAWL
 BASIS,OptTrawl,Optional Trawl,58,-173,58,0,-173,0,CTD/BON/TRAWL
@@ -99,64 +99,4 @@ BASIS,OptTrawl,Optional Trawl,59,-173,59,0,-173,0,CTD/BON/TRAWL
 BASIS,OptTrawl,Optional Trawl,59,-167,59,0,-167,0,CTD/BON/TRAWL
 BASIS,OptTrawl,Optional Trawl,59.5,-174,59,30,-174,0,CTD/BON/TRAWL
 BASIS,OptTrawl,Optional Trawl,59.5,-168,59,30,-168,0,CTD/BON/TRAWL
-BASIS,OptTrawl,Optional Trawl,60,-175,60,0,-175,0,CTD/BON/TRAWL
-,,NBEST Surface Trawl,60,-168,,,,,
-,,NBEST Surface Trawl,60,-169,,,,,
-,,NBEST Surface Trawl,60,-170,,,,,
-,,NBEST Surface Trawl,60,-171,,,,,
-,,NBEST Surface Trawl,60.5,-171,,,,,
-,,NBEST Surface Trawl,60.5,-170,,,,,
-,,NBEST Surface Trawl,60.5,-169,,,,,
-,,NBEST Surface Trawl,60.5,-168,,,,,
-,,NBEST Surface Trawl,60.5,-167,,,,,
-,,NBEST Surface Trawl,61,-167,,,,,
-,,NBEST Surface Trawl,61,-168,,,,,
-,,NBEST Surface Trawl,61,-169,,,,,
-,,NBEST Surface Trawl,61,-170,,,,,
-,,NBEST Surface Trawl,61,-171,,,,,
-,,NBEST Surface Trawl,61.5,-171,,,,,
-,,NBEST Surface Trawl,61.5,-170,,,,,
-,,NBEST Surface Trawl,61.5,-169,,,,,
-,,NBEST Surface Trawl,61.5,-168,,,,,
-,,NBEST Surface Trawl,61.5,-167,,,,,
-,,NBEST Surface Trawl,62,-167,,,,,
-,,NBEST Surface Trawl,62,-168,,,,,
-,,NBEST Surface Trawl,62,-169,,,,,
-,,NBEST Surface Trawl,62,-170,,,,,
-,,NBEST Surface Trawl,62,-171,,,,,
-,,NBEST Surface Trawl,62.5,-171,,,,,
-,,NBEST Surface Trawl,62.5,-170,,,,,
-,,NBEST Surface Trawl,62.5,-169,,,,,
-,,NBEST Surface Trawl,62.5,-168,,,,,
-,,NBEST Surface Trawl,62.5,-167,,,,,
-,,NBEST Surface Trawl,63,-167,,,,,
-,,NBEST Surface Trawl,63,-166,,,,,
-,,NBEST Surface Trawl,63.5,-166,,,,,
-,,NBEST Surface Trawl,63.5,-167,,,,,
-,,NBEST Surface Trawl,63.5,-168,,,,,
-,,NBEST Surface Trawl,64,-167,,,,,
-,,NBEST Surface Trawl,64,-168,,,,,
-,,NBEST Surface Trawl,64,-169,,,,,
-,,NBEST Surface Trawl,64.5,-168,,,,,
-,,NBEST Surface Trawl,65,-168,,,,,
-,,NBEST Surface Trawl,64.5,-167,,,,,
-,,NBEST Surface Trawl,64,-166,,,,,
-,,NBEST Surface Trawl,64.096,-162.528,,,,,
-,,NBEST Surface Trawl,64.099,-163.539,,,,,
-,,NBEST Surface Trawl,64.104,-164.439,,,,,
-,,NBEST Surface Trawl,64.5,-169,,,,,
-,,IERP,61,-172,,,,,
-,,IERP,61,-173,,,,,
-,,IERP,61.5,-172,,,,,
-,,IERP,61.5,-173,,,,,
-,,IERP,63,-172,,,,,
-,,IERP,62,-172,,,,,
-,,IERP,62,-173,,,,,
-,,IERP,62.194,-174.688,,,,,
-,,IERP,62.5,-172,,,,,
-,,IERP,62.6,-174,,,,,
-,,IERP,62.5,-173,,,,,
-,,IERP,64.12,-170.17,,,,,
-,,IERP,64.15,-171.53,,,,,
-,,IERP,64.67,-169.97,,,,,
-,,IERP,64.99,-169.14,,,,,
+BASIS,OptTrawl,Optional Trawl,63,-173,63,0,-173,0,CTD/BON/TRAWL
